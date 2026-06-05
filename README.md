@@ -54,7 +54,7 @@ Returns a complete vegetation risk profile for a given US property address:
 
 ### 1. Get an API key
 
-Sign up at [fallingtreerisk.com/api-access](https://www.fallingtreerisk.com/api-access) to get your API key.
+Sign up at [fallingtreerisk.com/api-access](https://www.fallingtreerisk.com/api-access) to get your API key. The first 10 API calls each month are free — no credit card required.
 
 ### 2. Configure your MCP client
 
@@ -91,6 +91,7 @@ Use the remote server URL `https://mcp.fallingtreerisk.com` with your API key in
 
 | Tier | Price |
 |------|-------|
+| Free | 10 API calls/month — no credit card required |
 | Pay-as-you-go | $1.00 per unique property |
 | Monthly | $100/month for up to 100 properties |
 

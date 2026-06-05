@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.goodest/fallingtreerisk-mcp",
   "title": "Falling Tree Risk",
-  "description": "Falling tree risk intelligence API for any US property. Returns risk level, annual probability range, storm history, canopy density, tree health trend, roofline canopy overhang, and soil uprooting risk.",
+  "description": "Falling tree risk intelligence API for any US property. Returns risk level, annual probability range, storm history, canopy density, tree health trend, roofline canopy overhang, and soil uprooting risk. First 10 calls each month are free.",
   "version": "1.0.0",
   "remotes": [
     {
